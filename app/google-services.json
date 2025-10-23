@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877968186046",
+    "firebase_url": "https://mid-mnn-shopping-app-3d9da-default-rtdb.firebaseio.com",
+    "project_id": "mid-mnn-shopping-app-3d9da",
+    "storage_bucket": "mid-mnn-shopping-app-3d9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877968186046:android:1e1a7f3406a5defb1fdcef",
+        "android_client_info": {
+          "package_name": "com.example.augustmidmorningnavigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877968186046-inrm5vfcvhfltq351m1hg0u34kc7otl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-oRSx0QQE4wc6TK0LWizziveAoYiLiMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877968186046-inrm5vfcvhfltq351m1hg0u34kc7otl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
